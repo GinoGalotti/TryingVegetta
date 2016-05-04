@@ -1,0 +1,3 @@
+POST http://splash.lightning.staging/render.json
+Content-type: application/json
+@body-performance.json
