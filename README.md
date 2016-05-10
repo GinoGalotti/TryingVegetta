@@ -11,3 +11,11 @@ This should serve as a GET example!
 vegeta attack -targets=target.txt -rate=200 -duration=20s | vegeta report
 
 Using target.txt as target, and body-performance.json as body!
+
+
+## Get Vegetta
+
+Just run it!
+
+wget https://github.com/tsenart/vegeta/releases/{version}
+tar -xzvf vegeta-v6.1.0-darwin-386.tar.gz
